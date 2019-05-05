@@ -5,6 +5,12 @@ public class Exercitiu5 {
             System.out.println(i);
 
         }
+        int n = 6;
+
+        while (n > 0) {
+            System.out.println(n);
+            n--;
+        }
     }
 
 }
